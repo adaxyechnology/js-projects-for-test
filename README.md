@@ -1,1 +1,1 @@
-# js-projects-for-test
+# js-projects-for-tests
